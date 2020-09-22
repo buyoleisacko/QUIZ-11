@@ -1,0 +1,152 @@
+.conte{
+width: 80%;
+margin: 25px auto 0px;
+height: 80%;
+background-color:yellow;
+color:white;
+padding-top:0px ;
+text-align:center;
+padding-right:0px ;
+font-family:sans-serif;
+padding-left:0px;
+}
+.con{
+  height: 500px;
+background-color: white;
+ padding-top: 10px;
+padding-bottom: 20px;
+font-size: 30px;
+color:white;
+text-align: center;
+}
+.iv{
+  text-align:left;
+  color:#364052;
+}
+body{
+  background-color:lightgray;
+  color:#222;
+}
+.top-container{
+    padding: 4rem;
+    background-color:  #192230;
+    text-align: center;
+}
+.cont {
+width: 100%;
+margin: 0 auto;
+height: 100%;
+background-color:#1f2a38;
+color:white;
+padding:0px;
+}
+.ivy{
+    font-size: 20px;
+    padding-left: 350px;
+    float: left;
+    text-align: center;
+    font-weight: lighter;
+    background-color: #fff;
+    color:#000;
+    font-family:Impact, Charcoal, sans-serif;
+}
+#img5{
+    float:left;
+    padding-left:0px ;
+    padding-top: 50;
+    margin-top: 20px;
+    margin-left: 20px;
+    position: absolute;
+}
+.liam {
+  text-align: center;
+  color:yellow;
+  margin-top: 20px;
+  font-size: 20px;
+  letter-spacing:5px;
+}
+.so{
+min-height: 90px;
+background-color:#354457 ;
+padding-top: 10px;
+padding-bottom: 20px;
+font-size: 30px;
+color:white;
+text-align: center;
+letter-spacing: 5px;
+}
+p{
+  text-align: center;
+  padding:10px;
+  margin-bottom:20px;
+}
+.hobbies{
+  justify-content: center;
+  background-color: white;
+  min-width: 550px;
+  min-height: 450px;
+  float:left;
+  padding-left:0px;
+  padding-bottom: 60px;
+  margin-left:-40px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+  margin-right: 400px;
+}
+.z{
+  margin-left: -2px;
+  margin-right: -1px;
+  color:black;
+  font-size: 20px;
+  background-color: yellow;
+  padding:10px;
+  margin-top:0px;
+}
+.goals{
+  justify-content:center;
+  background-color: white;
+  min-width: 450px;
+  min-height: 450px;
+  float:left;
+  padding-bottom: 60px;
+  margin-left:550px;
+  margin-bottom: 20px;
+  margin-top: -530px;
+  margin-right: -400px;
+}
+.z1{
+  margin-left: -1px;
+  margin-right: -1px;
+  color:black;
+  font-size: 20px;
+  background-color: yellow;
+  padding:10px;
+  margin-top:0px;
+}
+table{
+  border:1px solid #DDDDDD;
+  border-collapse:collapse;
+  width:90%;
+  font-family:arial,sans-serif;
+  margin-left: 40px;
+  text-align:left;
+}
+th{
+  padding:20px;
+}
+tr{
+  border-bottom:1px solid #DDDDDD;
+}
+th{
+  background-color:yellow;
+  color:black;
+}
+td{
+  border-right:1px solid #DDDDDD;
+}
+td{
+  padding:8px;
+}
+td{
+  background-color:white;
+}
